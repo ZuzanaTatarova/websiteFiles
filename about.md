@@ -4,21 +4,21 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! This page is about me and my research since my OHSU (Portland) stay. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+The novel, *Zuzana is having fun doing research*, starts with describing fails of reading e-mails, getting of the bus and others that led to great consequences. Further is yet to be defined but, as usual, will be a lot of fun. The formal website can be found [@zuz_rg](https://www.researchgate.net/profile/Zuzana_Tatarova).
 
-There are currently two themes built on Poole:
+chapters:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [by chance](http://zuzana_bychance.getpoole.com)
+* [be serious](http://zuzana_beserious.getpoole.com)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+## Research
 
-Some fun facts about the setup of this project include:
+to be adapted:
 
 * Built for [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
